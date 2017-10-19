@@ -1,0 +1,56 @@
+P:\Esprit 4BI\PI SprintOne\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Service.dll
+P:\Esprit 4BI\PI SprintOne\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Service.pdb
+P:\Esprit 4BI\PI SprintOne\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Data.dll
+P:\Esprit 4BI\PI SprintOne\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Domaine.dll
+P:\Esprit 4BI\PI SprintOne\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.dll
+P:\Esprit 4BI\PI SprintOne\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Data.pdb
+P:\Esprit 4BI\PI SprintOne\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Domaine.pdb
+P:\Esprit 4BI\PI SprintOne\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.xml
+P:\Esprit 4BI\PI SprintOne\RefugeeCamp\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.csprojResolveAssemblyReference.cache
+P:\Esprit 4BI\PI SprintOne\RefugeeCamp\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.dll
+P:\Esprit 4BI\PI SprintOne\RefugeeCamp\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.pdb
+P:\Esprit 4BI\PI SprintOne\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Service.dll.config
+P:\Esprit 4BI\PI SprintOne\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.SqlServer.dll
+P:\Esprit 4BI\PI SprintOne\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHubProject\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Service.dll.config
+C:\GitHubProject\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Service.dll
+C:\GitHubProject\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Service.pdb
+C:\GitHubProject\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.dll
+C:\GitHubProject\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHubProject\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Data.dll
+C:\GitHubProject\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Domaine.dll
+C:\GitHubProject\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Data.pdb
+C:\GitHubProject\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Domaine.pdb
+C:\GitHubProject\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.xml
+C:\GitHubProject\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHubProject\RefugeeCamp\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.csprojResolveAssemblyReference.cache
+C:\GitHubProject\RefugeeCamp\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.dll
+C:\GitHubProject\RefugeeCamp\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Service.dll.config
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Service.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Service.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.SqlServer.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Data.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Domaine.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Data.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Domaine.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.SqlServer.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.csprojResolveAssemblyReference.cache
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Service.dll.config
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Service.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Service.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.SqlServer.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Data.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Domaine.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Data.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Domaine.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Service\bin\Debug\EntityFramework.SqlServer.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.csprojResolveAssemblyReference.cache
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.pdb

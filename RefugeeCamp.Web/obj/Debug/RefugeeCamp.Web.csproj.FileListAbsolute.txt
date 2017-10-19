@@ -1,0 +1,218 @@
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\csc.exe
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\vbc.exe
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Web.dll.config
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Web.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Web.pdb
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Antlr3.Runtime.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\EntityFramework.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Newtonsoft.Json.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Owin.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Helpers.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Mvc.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Optimization.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Razor.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\WebGrease.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Helpers.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Mvc.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Optimization.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Razor.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Antlr3.Runtime.pdb
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Newtonsoft.Json.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\EntityFramework.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\obj\Debug\RefugeeCamp.Web.dll
+C:\Users\khansa\Desktop\PI SprintOne\RefugeeCamp\RefugeeCamp.Web\obj\Debug\RefugeeCamp.Web.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\csc.exe
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\System.Collections.Immutable.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\System.Reflection.Metadata.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\vbc.exe
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\VBCSCompiler.exe
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\VBCSCompiler.exe.config
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Web.dll.config
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Web.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Web.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Antlr3.Runtime.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\EntityFramework.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\EntityFramework.SqlServer.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.Core.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Cookies.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Facebook.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Google.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.OAuth.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Twitter.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Web.Infrastructure.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Newtonsoft.Json.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Owin.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Helpers.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Mvc.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Optimization.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Razor.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.Deployment.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.Razor.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\WebGrease.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Helpers.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Mvc.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Optimization.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Razor.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.Deployment.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.Razor.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Antlr3.Runtime.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Newtonsoft.Json.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\EntityFramework.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\EntityFramework.SqlServer.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.Core.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Facebook.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Cookies.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.OAuth.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Google.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Twitter.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\obj\Debug\RefugeeCamp.Web.csprojResolveAssemblyReference.cache
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\obj\Debug\RefugeeCamp.Web.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\obj\Debug\RefugeeCamp.Web.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Domaine.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Service.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Data.dll
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Domaine.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Service.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Data.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\csc.exe
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\System.Collections.Immutable.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\System.Reflection.Metadata.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\vbc.exe
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\VBCSCompiler.exe
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\roslyn\VBCSCompiler.exe.config
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Web.dll.config
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Web.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Web.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Antlr3.Runtime.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\EntityFramework.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\EntityFramework.SqlServer.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.Core.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Cookies.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Facebook.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Google.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.OAuth.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Twitter.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Web.Infrastructure.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Newtonsoft.Json.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Owin.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Domaine.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Service.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Helpers.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Mvc.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Optimization.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Razor.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.Deployment.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.Razor.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\WebGrease.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Data.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Domaine.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Service.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Helpers.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Mvc.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Optimization.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.Razor.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.Deployment.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\System.Web.WebPages.Razor.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Antlr3.Runtime.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Newtonsoft.Json.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\EntityFramework.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\EntityFramework.SqlServer.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.Core.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Facebook.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Cookies.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.OAuth.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Google.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.Twitter.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\bin\RefugeeCamp.Data.pdb
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\obj\Debug\RefugeeCamp.Web.csprojResolveAssemblyReference.cache
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\obj\Debug\RefugeeCamp.Web.dll
+P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Web\obj\Debug\RefugeeCamp.Web.pdb
