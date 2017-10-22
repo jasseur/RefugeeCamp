@@ -41,6 +41,7 @@ namespace RefugeeCamp.Web
               url: "{Level}/{Delete}/{id}",
               defaults: new { controller = "Level", action = "Delete", id = UrlParameter.Optional });
 
+            
         }
     }
     }
