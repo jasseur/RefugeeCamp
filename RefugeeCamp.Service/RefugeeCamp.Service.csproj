@@ -52,6 +52,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ServicePattern\IService.cs" />
     <Compile Include="ServicePattern\Service.cs" />
+    <Compile Include="ServiceSpecifique\Interfaces\EducationInterfaces\IClassroomService.cs" />
+    <Compile Include="ServiceSpecifique\Interfaces\EducationInterfaces\ILevelService.cs" />
+    <Compile Include="ServiceSpecifique\Interfaces\EducationInterfaces\ITeacherService.cs" />
     <Compile Include="ServiceSpecifique\Interfaces\HealthcareInterfaces\IAppointmentService.cs" />
     <Compile Include="ServiceSpecifique\Interfaces\HealthcareInterfaces\IClassificationService.cs" />
     <Compile Include="ServiceSpecifique\Interfaces\HealthcareInterfaces\IDiagnosticSevice.cs" />
@@ -63,6 +66,9 @@
     <Compile Include="ServiceSpecifique\Interfaces\WarehouseInterfaces\IDistributionService.cs" />
     <Compile Include="ServiceSpecifique\Interfaces\WarehouseInterfaces\ILotService.cs" />
     <Compile Include="ServiceSpecifique\Interfaces\WarehouseInterfaces\ISupplyService.cs" />
+    <Compile Include="ServiceSpecifique\Services\EducationServices\ClassroomService.cs" />
+    <Compile Include="ServiceSpecifique\Services\EducationServices\LevelService.cs" />
+    <Compile Include="ServiceSpecifique\Services\EducationServices\TeacherService.cs" />
     <Compile Include="ServiceSpecifique\Services\HealthCareServices\AppointmentService.cs" />
     <Compile Include="ServiceSpecifique\Services\HealthCareServices\ClassificationService.cs" />
     <Compile Include="ServiceSpecifique\Services\HealthCareServices\DiagnosticSevice.cs" />
@@ -94,9 +100,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ServiceSpecifique\Interfaces\DistributionInterfeces\" />
-    <Folder Include="ServiceSpecifique\Interfaces\EducationInterfaces\" />
     <Folder Include="ServiceSpecifique\Interfaces\RegistrationInterfaces\" />
-    <Folder Include="ServiceSpecifique\Services\EducationServices\" />
     <Folder Include="ServiceSpecifique\Services\RegistrationServices\" />
     <Folder Include="ServiceSpecifique\Services\StaffManagmentServices\" />
   </ItemGroup>

@@ -12,9 +12,10 @@ namespace RefugeeCamp.Domaine.Entity
     {
         [Key]
         public int Id { get; set; }
-
+        [Required]
         [Column(TypeName = "datetime2")]
         public DateTime Start { get; set; }
+        [Required]
         [Column(TypeName = "datetime2")]
         public DateTime Finish { get; set; }
 

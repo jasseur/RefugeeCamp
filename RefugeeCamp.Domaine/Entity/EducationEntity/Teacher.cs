@@ -6,9 +6,10 @@ namespace RefugeeCamp.Domaine.Entity
 {
     public class Teacher : Staff
     {
-       
-       public String Notes { get; set; }
-       public SpecialityType TeachingField { get; set; }
+        [Required]
+        public String Notes { get; set; }
+        [Required]
+        public SpecialityType TeachingField { get; set; }
 
         public virtual ICollection<Classsroom> Classsrooms { get; set; }
     }

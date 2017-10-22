@@ -11,9 +11,9 @@ namespace RefugeeCamp.Domaine.Entity
     {
         [Key]
         public int Id { get; set; }
-
-   
+        [Required]
         public String LevelName { get; set; }
+        [Required]
         public String Description { get; set; }
 
         public virtual ICollection<Course> Cources { get; set; }

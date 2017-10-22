@@ -38,3 +38,13 @@ P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Domaine\bin\Debug\E
 P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Domaine\obj\Debug\RefugeeCamp.Domaine.csprojResolveAssemblyReference.cache
 P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Domaine\obj\Debug\RefugeeCamp.Domaine.dll
 P:\Esprit 4BI\PI SprintOne\LastPull2\RefugeeCamp\RefugeeCamp.Domaine\obj\Debug\RefugeeCamp.Domaine.pdb
+C:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Domaine\bin\Debug\RefugeeCamp.Domaine.dll.config
+C:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Domaine\bin\Debug\RefugeeCamp.Domaine.dll
+C:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Domaine\bin\Debug\RefugeeCamp.Domaine.pdb
+C:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Domaine\bin\Debug\EntityFramework.dll
+C:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Domaine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Domaine\bin\Debug\EntityFramework.xml
+C:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Domaine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Domaine\obj\Debug\RefugeeCamp.Domaine.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Domaine\obj\Debug\RefugeeCamp.Domaine.dll
+C:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Domaine\obj\Debug\RefugeeCamp.Domaine.pdb

@@ -3,7 +3,7 @@ namespace RefugeeCamp.Data.Migrations
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class First : DbMigration
+    public partial class v1 : DbMigration
     {
         public override void Up()
         {
@@ -28,14 +28,14 @@ namespace RefugeeCamp.Data.Migrations
                 c => new
                     {
                         Id = c.Int(nullable: false, identity: true),
-                        FirstName = c.String(),
-                        LastName = c.String(),
+                        FirstName = c.String(nullable: false),
+                        LastName = c.String(nullable: false),
                         BirthDate = c.DateTime(nullable: false, precision: 7, storeType: "datetime2"),
                         HireDate = c.DateTime(nullable: false, precision: 7, storeType: "datetime2"),
                         Gender = c.Int(nullable: false),
-                        Contact_PhoneNumber = c.String(),
-                        Contact_Adress = c.String(),
-                        Contact_Email = c.String(),
+                        Contact_PhoneNumber = c.String(nullable: false),
+                        Contact_Adress = c.String(nullable: false),
+                        Contact_Email = c.String(nullable: false),
                         Role = c.Int(nullable: false),
                         Specialty = c.String(),
                         Notes = c.String(),
@@ -261,8 +261,8 @@ namespace RefugeeCamp.Data.Migrations
                 c => new
                     {
                         Id = c.Int(nullable: false, identity: true),
-                        LevelName = c.String(),
-                        Description = c.String(),
+                        LevelName = c.String(nullable: false),
+                        Description = c.String(nullable: false),
                     })
                 .PrimaryKey(t => t.Id);
             
@@ -271,8 +271,8 @@ namespace RefugeeCamp.Data.Migrations
                 c => new
                     {
                         Id = c.Int(nullable: false, identity: true),
-                        Name = c.String(),
-                        Description = c.String(),
+                        Name = c.String(nullable: false),
+                        Description = c.String(nullable: false),
                         level_Id = c.Int(),
                     })
                 .PrimaryKey(t => t.Id)

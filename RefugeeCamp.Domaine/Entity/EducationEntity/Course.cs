@@ -12,7 +12,9 @@ namespace RefugeeCamp.Domaine.Entity
     {   [Key]
         public int Id { get; set; }
 
+        [Required]
         public String Name { get; set; }
+        [Required]
         public String Description { get; set; }
 
         public virtual Level level { get; set; }

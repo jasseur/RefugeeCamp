@@ -18,6 +18,30 @@ namespace RefugeeCamp.Web
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
+
+            routes.MapRoute(
+            name: "Update",
+            url: "{Teacher}/{Edit}/{id}",
+            defaults: new { controller = "Teacher", action = "Edit", id = UrlParameter.Optional });
+      
+            routes.MapRoute(
+              name: "Delete",
+              url: "{Teacher}/{Delete}/{id}",
+              defaults: new { controller = "Teacher", action = "Delete", id = UrlParameter.Optional });
+
+
+
+            routes.MapRoute(
+         name: "UpdateLevel",
+         url: "{Level}/{Edit}/{id}",
+         defaults: new { controller = "Level", action = "Edit", id = UrlParameter.Optional });
+
+            routes.MapRoute(
+              name: "DeleteLevel",
+              url: "{Level}/{Delete}/{id}",
+              defaults: new { controller = "Level", action = "Delete", id = UrlParameter.Optional });
+
         }
     }
-}
+    }
+
