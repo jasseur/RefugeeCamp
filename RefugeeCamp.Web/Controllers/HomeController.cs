@@ -9,6 +9,7 @@ namespace RefugeeCamp.Web.Controllers
 {
     public class HomeController : Controller
     {
+        //by fayrouz
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<ActionResult> Contact(EmailFormModel model)
@@ -40,14 +41,14 @@ namespace RefugeeCamp.Web.Controllers
             }
             return View(model);
         }
-
+        
 
         public ActionResult Sent()
         {
             return View();
         }
 
-
+//end by fayrouz
         public ActionResult Index(string test)
         {
             return View();

@@ -311,7 +311,6 @@
     <Folder Include="Models\WarehouseModels\" />
     <Folder Include="UploadedFiles\" />
     <Folder Include="Views\Refugee\" />
-    <Folder Include="Views\Search\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
