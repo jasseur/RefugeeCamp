@@ -10,8 +10,9 @@ using System.Threading.Tasks;
 
 namespace RefugeeCamp.Service.ServiceSpecifique.Services.EducationServices
 {
-   public class TeacherService : Service<Teacher>, ITeacherService
+    public class TeacherService : Service<Teacher>, ITeacherService
     {
+        TeacherService ts = new TeacherService();
         private static IDatabaseFactory dbf = new DatabaseFactory();
         private static IUnitOfWork uof = new UnitOfWork(dbf);
 
@@ -19,6 +20,6 @@ namespace RefugeeCamp.Service.ServiceSpecifique.Services.EducationServices
         {
 
         }
-    
+       
     }
 }

@@ -51,7 +51,7 @@
                                         <li><a href="@Url.Action("Index", "Teacher", new { id = UrlParameter.Optional })"> Show Teachers List</a></li>
                                         <li><a href="@Url.Action("Index", "Student", new { id = UrlParameter.Optional })">Show Students List</a></li>
                                         <li><a href="@Url.Action("Index", "Level", new { id = UrlParameter.Optional })">Show Levels List</a></li>
-                                        <li><a href="@Url.Action("Index", "Course", new { id = UrlParameter.Optional })">Show Cources List</a></li>
+                                        <li><a href="@Url.Action("Index", "Course", new { id = UrlParameter.Optional })">Show Courses List</a></li>
 
                                     </ul>
                                 </li>
@@ -254,7 +254,7 @@
                 <!-- this is where my part starts-->
 
                 @{
-                    ViewBag.Title = "Send an Email";
+                    ViewBag.Title = "Send an E-mail";
                 }
                 <h2>@ViewBag.Title.</h2>
 
@@ -263,21 +263,21 @@
                     @Html.AntiForgeryToken()
                     <hr />
                     <div class="form-group">
-                        @Html.LabelFor(m => m.FromName, new { @class = "col-md-2 control-label" })
+                        @Html.LabelFor(m => m.FromName, "Your first and last name: ", new { @class = "col-md-2 control-label" })
                         <div class="col-md-10">
                             @Html.TextBoxFor(m => m.FromName, new { @class = "form-control" })
                             @Html.ValidationMessageFor(m => m.FromName)
                         </div>
                     </div>
                     <div class="form-group">
-                        @Html.LabelFor(m => m.FromEmail, new { @class = "col-md-2 control-label" })
+                        @Html.LabelFor(m => m.FromEmail, "Your E-mail:", new { @class = "col-md-2 control-label" })
                         <div class="col-md-10">
                             @Html.TextBoxFor(m => m.FromEmail, new { @class = "form-control" })
                             @Html.ValidationMessageFor(m => m.FromEmail)
                         </div>
                     </div>
                     <div class="form-group">
-                        @Html.LabelFor(m => m.Message, new { @class = "col-md-2 control-label" })
+                        @Html.LabelFor(m => m.Message, "Your message:", new { @class = "col-md-2 control-label" })
                         <div class="col-md-10">
                             @Html.TextAreaFor(m => m.Message, new { @class = "form-control" })
                             @Html.ValidationMessageFor(m => m.Message)

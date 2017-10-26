@@ -24,7 +24,7 @@ namespace RefugeeCamp.Web.Controllers.EducationControllers
             {
                 llm.Add(new LevelModel
                 {
-                    Id = item.Id,
+                    LevelId = item.LevelId,
                     LevelName = item.LevelName,
                     Description = item.Description
 
@@ -82,7 +82,7 @@ namespace RefugeeCamp.Web.Controllers.EducationControllers
 
             ls.Commit();
 
-            return View();
+            return RedirectToAction("Index");
         }
 
         // GET: Level/Delete/5

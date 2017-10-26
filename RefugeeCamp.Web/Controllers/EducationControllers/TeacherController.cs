@@ -12,6 +12,7 @@ namespace RefugeeCamp.Web.Controllers.EducationControllers
     public class TeacherController : Controller
     {
         TeacherService ts = new TeacherService();
+        List<TeacherModel> ltm = new List<TeacherModel>();
 
         // GET: Teacher
         public ActionResult Index()
@@ -61,6 +62,7 @@ namespace RefugeeCamp.Web.Controllers.EducationControllers
         // GET: Teacher/Create
         public ActionResult Create()
         {
+           
             return View();
         }
 
@@ -143,5 +145,60 @@ namespace RefugeeCamp.Web.Controllers.EducationControllers
                 return View();
             }
         }
+
+
+
+        public ViewResult Search(string nom)
+        {
+            //IEnumerable<TeacherModel> tmie = ltm as IEnumerable<TeacherModel>;
+
+            List<TeacherModel> Lst = new List<TeacherModel>();
+            if (!string.IsNullOrEmpty(nom))
+            {
+
+                foreach (var item in Lst)
+                {
+                    if (item.LastName.Equals(nom))
+                    {
+                        Lst.Add(item);
+
+                        return View(Lst);
+                    }
+                }
+            }
+           
+
+            return View();
+        }
+
+
+      
+
+
+        //[HttpPost]
+        //public ActionResult Lookfor(String nom)
+        //{
+        //    List<TeacherModel> Lst = new List<TeacherModel>();
+        //   // List<Restaurant> LstResto = Session["LstResto"] as List<Restaurant>;
+
+        //    if (!string.IsNullOrEmpty(nom))
+        //    {
+
+        //        foreach (var item in Lst)
+        //        {
+        //            if (item.LastName.Equals(nom))
+        //            {
+        //                Lst.Add(item);
+
+        //                return View(Lst);
+        //            }
+        //        }
+        //    }
+        //    return View();
+
+        //}
+
+
+
     }
 }

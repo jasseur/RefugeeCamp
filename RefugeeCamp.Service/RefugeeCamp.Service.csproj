@@ -53,7 +53,9 @@
     <Compile Include="ServicePattern\IService.cs" />
     <Compile Include="ServicePattern\Service.cs" />
     <Compile Include="ServiceSpecifique\Interfaces\EducationInterfaces\IClassroomService.cs" />
+    <Compile Include="ServiceSpecifique\Interfaces\EducationInterfaces\ICourseService.cs" />
     <Compile Include="ServiceSpecifique\Interfaces\EducationInterfaces\ILevelService.cs" />
+    <Compile Include="ServiceSpecifique\Interfaces\EducationInterfaces\IStudentService.cs" />
     <Compile Include="ServiceSpecifique\Interfaces\EducationInterfaces\ITeacherService.cs" />
     <Compile Include="ServiceSpecifique\Interfaces\HealthcareInterfaces\IAppointmentService.cs" />
     <Compile Include="ServiceSpecifique\Interfaces\HealthcareInterfaces\IClassificationService.cs" />
@@ -67,7 +69,9 @@
     <Compile Include="ServiceSpecifique\Interfaces\WarehouseInterfaces\ILotService.cs" />
     <Compile Include="ServiceSpecifique\Interfaces\WarehouseInterfaces\ISupplyService.cs" />
     <Compile Include="ServiceSpecifique\Services\EducationServices\ClassroomService.cs" />
+    <Compile Include="ServiceSpecifique\Services\EducationServices\CourseService.cs" />
     <Compile Include="ServiceSpecifique\Services\EducationServices\LevelService.cs" />
+    <Compile Include="ServiceSpecifique\Services\EducationServices\StudentService.cs" />
     <Compile Include="ServiceSpecifique\Services\EducationServices\TeacherService.cs" />
     <Compile Include="ServiceSpecifique\Services\HealthCareServices\AppointmentService.cs" />
     <Compile Include="ServiceSpecifique\Services\HealthCareServices\ClassificationService.cs" />

@@ -10,7 +10,7 @@ namespace RefugeeCamp.Domaine.Entity
    public class Level
     {
         [Key]
-        public int Id { get; set; }
+        public int LevelId { get; set; }
         [Required]
         public String LevelName { get; set; }
         [Required]

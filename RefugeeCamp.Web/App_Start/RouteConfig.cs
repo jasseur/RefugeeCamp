@@ -32,14 +32,15 @@ namespace RefugeeCamp.Web
 
 
             routes.MapRoute(
-         name: "UpdateLevel",
+         name: "UpdateStudent",
          url: "{Level}/{Edit}/{id}",
          defaults: new { controller = "Level", action = "Edit", id = UrlParameter.Optional });
 
             routes.MapRoute(
-              name: "DeleteLevel",
+              name: "DeleteStudent",
               url: "{Level}/{Delete}/{id}",
               defaults: new { controller = "Level", action = "Delete", id = UrlParameter.Optional });
+
 
             
         }

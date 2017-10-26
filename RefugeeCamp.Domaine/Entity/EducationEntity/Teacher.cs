@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RefugeeCamp.Domaine.ComplexType;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 

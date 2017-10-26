@@ -8,5 +8,6 @@ namespace RefugeeCamp.Web.Models.EducationModels
 {
     public class LevelModel : Level
     {
+
     }
 }

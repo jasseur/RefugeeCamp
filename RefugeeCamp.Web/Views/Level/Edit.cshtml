@@ -1,5 +1,6 @@
 ﻿@model RefugeeCamp.Web.Models.EducationModels.LevelModel
 
+
 <body class="nav-md">
     <div class="container body">
         <div class="main_container">
@@ -262,7 +263,7 @@
                         <h4>LevelModel</h4>
                         <hr />
                         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
-                        @Html.HiddenFor(model => model.Id)
+                        @Html.HiddenFor(model => model.LevelId)
 
                         <div class="form-group">
                             @Html.LabelFor(model => model.LevelName, htmlAttributes: new { @class = "control-label col-md-2" })

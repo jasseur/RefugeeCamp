@@ -93,15 +93,15 @@ namespace RefugeeCamp.Data.Migrations
                         BirthDate = c.DateTime(nullable: false, precision: 7, storeType: "datetime2"),
                         RegistrationDate = c.DateTime(nullable: false, precision: 7, storeType: "datetime2"),
                         Notes = c.String(),
+                        LevelId = c.Int(),
                         Discriminator = c.String(nullable: false, maxLength: 128),
                         Family_Id = c.Int(),
-                        Level_Id = c.Int(),
                     })
                 .PrimaryKey(t => t.Id)
                 .ForeignKey("dbo.Families", t => t.Family_Id)
-                .ForeignKey("dbo.Levels", t => t.Level_Id)
-                .Index(t => t.Family_Id)
-                .Index(t => t.Level_Id);
+                .ForeignKey("dbo.Levels", t => t.LevelId)
+                .Index(t => t.LevelId)
+                .Index(t => t.Family_Id);
             
             CreateTable(
                 "dbo.Families",
@@ -260,31 +260,31 @@ namespace RefugeeCamp.Data.Migrations
                 "dbo.Levels",
                 c => new
                     {
-                        Id = c.Int(nullable: false, identity: true),
+                        LevelId = c.Int(nullable: false, identity: true),
                         LevelName = c.String(nullable: false),
                         Description = c.String(nullable: false),
                     })
-                .PrimaryKey(t => t.Id);
+                .PrimaryKey(t => t.LevelId);
             
             CreateTable(
                 "dbo.Courses",
                 c => new
                     {
-                        Id = c.Int(nullable: false, identity: true),
+                        CourseId = c.Int(nullable: false, identity: true),
                         Name = c.String(nullable: false),
                         Description = c.String(nullable: false),
-                        level_Id = c.Int(),
+                        LevelId = c.Int(),
                     })
-                .PrimaryKey(t => t.Id)
-                .ForeignKey("dbo.Levels", t => t.level_Id)
-                .Index(t => t.level_Id);
+                .PrimaryKey(t => t.CourseId)
+                .ForeignKey("dbo.Levels", t => t.LevelId)
+                .Index(t => t.LevelId);
             
         }
         
         public override void Down()
         {
-            DropForeignKey("dbo.Refugees", "Level_Id", "dbo.Levels");
-            DropForeignKey("dbo.Courses", "level_Id", "dbo.Levels");
+            DropForeignKey("dbo.Refugees", "LevelId", "dbo.Levels");
+            DropForeignKey("dbo.Courses", "LevelId", "dbo.Levels");
             DropForeignKey("dbo.Classsrooms", "Student_Id", "dbo.Refugees");
             DropForeignKey("dbo.Reports", "Staff_Id", "dbo.Staffs");
             DropForeignKey("dbo.Classsrooms", "Teacher_Id", "dbo.Staffs");
@@ -306,7 +306,7 @@ namespace RefugeeCamp.Data.Migrations
             DropForeignKey("dbo.Diagnostics", "Disease_Id", "dbo.Diseases");
             DropForeignKey("dbo.Diseases", "Classification_Id", "dbo.Classifications");
             DropForeignKey("dbo.Appointments", "DoctorId", "dbo.Staffs");
-            DropIndex("dbo.Courses", new[] { "level_Id" });
+            DropIndex("dbo.Courses", new[] { "LevelId" });
             DropIndex("dbo.Classsrooms", new[] { "Student_Id" });
             DropIndex("dbo.Classsrooms", new[] { "Teacher_Id" });
             DropIndex("dbo.Prescriptions", new[] { "DoctorId" });
@@ -321,8 +321,8 @@ namespace RefugeeCamp.Data.Migrations
             DropIndex("dbo.Reports", new[] { "Staff_Id" });
             DropIndex("dbo.Reports", new[] { "Refugee_Id" });
             DropIndex("dbo.Families", new[] { "Shelter_Id" });
-            DropIndex("dbo.Refugees", new[] { "Level_Id" });
             DropIndex("dbo.Refugees", new[] { "Family_Id" });
+            DropIndex("dbo.Refugees", new[] { "LevelId" });
             DropIndex("dbo.Diseases", new[] { "Classification_Id" });
             DropIndex("dbo.Diagnostics", new[] { "Disease_Id" });
             DropIndex("dbo.Diagnostics", new[] { "DoctorId" });

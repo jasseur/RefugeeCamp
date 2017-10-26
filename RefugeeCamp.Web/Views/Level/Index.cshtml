@@ -260,6 +260,9 @@
                 <table class="table">
                     <tr>
                         <th>
+                            @Html.DisplayNameFor(model => model.LevelId)
+                        </th>
+                        <th>
                             @Html.DisplayNameFor(model => model.LevelName)
                         </th>
                         <th>
@@ -272,15 +275,18 @@
                     {
                         <tr>
                             <td>
+                                @Html.DisplayFor(modelItem => item.LevelId)
+                            </td>
+                            <td>
                                 @Html.DisplayFor(modelItem => item.LevelName)
                             </td>
                             <td>
                                 @Html.DisplayFor(modelItem => item.Description)
                             </td>
                             <td>
-                                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
-                                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
-                                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                                @Html.ActionLink("Edit", "Edit", new { id = item.LevelId }) |
+                                @Html.ActionLink("Details", "Details", new { id = item.LevelId }) |
+                                @Html.ActionLink("Delete", "Delete", new { id = item.LevelId })
                             </td>
                         </tr>
                     }
