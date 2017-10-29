@@ -18,9 +18,14 @@ namespace RefugeeCamp.Service.ServiceSpecifique.Services.EducationServices
         public LevelService() : base(uof)
         {
 
+
+        }
+        public int GetCountlevels()
+        {
+            IEnumerable<Level> lst = GetAll();
+            return lst.Count();
         }
 
-       
 
     }
 }

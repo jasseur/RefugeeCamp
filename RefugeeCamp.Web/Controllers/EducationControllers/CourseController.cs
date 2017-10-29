@@ -128,6 +128,13 @@ namespace RefugeeCamp.Web.Controllers.EducationControllers
 
 
 
+        public ActionResult CoursesCount()
+        {
+            testCourseModel tm = new testCourseModel();
+            tm.n = cs.GetCountcourses();
+            return View(tm);
+        }
+
 
 
 

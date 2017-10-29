@@ -25,5 +25,11 @@ namespace RefugeeCamp.Service.ServiceSpecifique.Services.EducationServices
             return uof.GetRepository<Level>().GetAll();
 
         }
+
+        public int GetCountcourses()
+        {
+            IEnumerable<Course> lst = GetAll();
+            return lst.Count();
+        }
     }
 }

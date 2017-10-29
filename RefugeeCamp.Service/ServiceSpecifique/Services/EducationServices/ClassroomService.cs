@@ -18,5 +18,18 @@ namespace RefugeeCamp.Service.ServiceSpecifique.Services.EducationServices
         {
 
         }
+
+        //need'em for the dropdown thing
+        public IEnumerable<Level> GetAllLevel()
+        {
+            return uof.GetRepository<Level>().GetAll();
+
+        }
+
+        public IEnumerable<Teacher> GetAllTeacher()
+        {
+            return uof.GetRepository<Teacher>().GetAll();
+
+        }
     }
 }

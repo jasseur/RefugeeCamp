@@ -1,10 +1,7 @@
 ﻿using RefugeeCamp.Domaine.Entity;
 using RefugeeCamp.Service.ServiceSpecifique.Services.EducationServices;
 using RefugeeCamp.Web.Models.EducationModels;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 
 namespace RefugeeCamp.Web.Controllers.EducationControllers
@@ -46,16 +43,7 @@ namespace RefugeeCamp.Web.Controllers.EducationControllers
         public ActionResult Details(int id)
         {
             Response.Write("dddd: " + id + "</h1>");
-            //Id = teacher.Id;
-            //FirstName = teacher.FirstName;
-            //LastName = item.LastName;
-            //BirthDate = item.BirthDate;
-            //HireDate = item.HireDate;
-            //Gender = item.Gender;
-            //Contact = item.Contact;
-            //Role = item.Role;
-            //TeachingField = item.TeachingField;
-            //Notes = item.Notes;
+            
             return View();
         }
 
@@ -147,56 +135,17 @@ namespace RefugeeCamp.Web.Controllers.EducationControllers
         }
 
 
-
-        public ViewResult Search(string nom)
+        public ActionResult TeachersCount()
         {
-            //IEnumerable<TeacherModel> tmie = ltm as IEnumerable<TeacherModel>;
-
-            List<TeacherModel> Lst = new List<TeacherModel>();
-            if (!string.IsNullOrEmpty(nom))
-            {
-
-                foreach (var item in Lst)
-                {
-                    if (item.LastName.Equals(nom))
-                    {
-                        Lst.Add(item);
-
-                        return View(Lst);
-                    }
-                }
-            }
-           
-
-            return View();
+            testTeacherModel tm = new testTeacherModel();
+            tm.n = ts.GetCountteachers();
+            return View(tm);
         }
 
 
-      
 
 
-        //[HttpPost]
-        //public ActionResult Lookfor(String nom)
-        //{
-        //    List<TeacherModel> Lst = new List<TeacherModel>();
-        //   // List<Restaurant> LstResto = Session["LstResto"] as List<Restaurant>;
 
-        //    if (!string.IsNullOrEmpty(nom))
-        //    {
-
-        //        foreach (var item in Lst)
-        //        {
-        //            if (item.LastName.Equals(nom))
-        //            {
-        //                Lst.Add(item);
-
-        //                return View(Lst);
-        //            }
-        //        }
-        //    }
-        //    return View();
-
-        //}
 
 
 

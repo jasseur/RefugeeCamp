@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RefugeeCamp.Domaine.Entity;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,5 +9,7 @@ namespace RefugeeCamp.Service.ServiceSpecifique.Interfaces.EducationInterfaces
 {
     interface IClassroomService
     {
+        IEnumerable<Teacher> GetAllTeacher();
+        IEnumerable<Level> GetAllLevel();
     }
 }

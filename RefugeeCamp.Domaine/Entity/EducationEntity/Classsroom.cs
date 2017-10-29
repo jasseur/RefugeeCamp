@@ -22,7 +22,19 @@ namespace RefugeeCamp.Domaine.Entity
         public String ClassroomName { get; set; }
         public String ClassroomDescription { get; set; }
 
+
+
+        //fk
+        [Required]
+        public int? StaffId { get; set; }
+        [ForeignKey("StaffId")]
         public virtual Teacher Teacher { get; set; }
+
+        //fk
+        [Required]
+        public int? LevelId { get; set; }
+        [ForeignKey("LevelId")]
+        public virtual Level Level { get; set; }
 
 
 

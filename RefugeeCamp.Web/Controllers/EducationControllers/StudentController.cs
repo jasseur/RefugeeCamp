@@ -116,6 +116,18 @@ namespace RefugeeCamp.Web.Controllers.EducationControllers
             return View();
         }
 
+
+
+        
+        public ActionResult StudentsCount()
+        {
+            testStudentModel tm = new testStudentModel();
+            tm.n = ss.GetCountstudents();
+            return View(tm);
+        }
+
+
+
         // POST: Student/Delete/5
         [HttpPost]
         public ActionResult Delete(int id, FormCollection collection)

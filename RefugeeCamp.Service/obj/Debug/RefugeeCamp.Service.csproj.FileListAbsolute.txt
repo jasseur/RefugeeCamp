@@ -68,3 +68,17 @@ C:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\
 C:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.csprojResolveAssemblyReference.cache
 C:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.dll
 C:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.pdb
+D:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Service.dll.config
+D:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Service.dll
+D:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Service.pdb
+D:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\bin\Debug\EntityFramework.dll
+D:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Data.dll
+D:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Domaine.dll
+D:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Data.pdb
+D:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\bin\Debug\RefugeeCamp.Domaine.pdb
+D:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\bin\Debug\EntityFramework.xml
+D:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.csprojResolveAssemblyReference.cache
+D:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.dll
+D:\Users\HP\Documents\RefugeeCampFromGit\RefugeeCampProject\RefugeeCamp.Service\obj\Debug\RefugeeCamp.Service.pdb

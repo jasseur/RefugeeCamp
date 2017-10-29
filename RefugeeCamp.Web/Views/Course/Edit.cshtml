@@ -37,7 +37,7 @@
                                 <li>
                                     <a><i class="fa fa-edit"></i> Adding Forms <span class="fa fa-chevron-down"></span></a>
                                     <ul class="nav child_menu">
-                                        <li><a href="@Url.Action("Create", "Teacher", new { id = UrlParameter.Optional })">Add a teacher</a></li>
+                                        <li><a href="@Url.Action("Create", "Teacher", new { id = UrlParameter.Optional })">Add a Teacher</a></li>
                                         <li><a href="@Url.Action("Create", "Student", new { id = UrlParameter.Optional })">Add a Student</a></li>
                                         <li><a href="@Url.Action("Create", "Level", new { id = UrlParameter.Optional })">Add a Level</a></li>
                                         <li><a href="@Url.Action("Create", "Course", new { id = UrlParameter.Optional })">Add a Course</a></li>
@@ -65,11 +65,11 @@
                                 <li>
                                     <a><i class="fa fa-bar-chart-o"></i> Data Presentation <span class="fa fa-chevron-down"></span></a>
                                     <ul class="nav child_menu">
-                                        <li><a href="chartjs.html">Chart JS</a></li>
-                                        <li><a href="chartjs2.html">Chart JS2</a></li>
-                                        <li><a href="morisjs.html">Moris JS</a></li>
-                                        <li><a href="echarts.html">ECharts</a></li>
-                                        <li><a href="other_charts.html">Other Charts</a></li>
+                                        <li><a href="@Url.Action("TeachersCount", "Teacher", new { id = UrlParameter.Optional })">How many Teacher do we have?</a></li>
+                                        <li><a href="@Url.Action("StudentsCount", "Student", new { id = UrlParameter.Optional })">How many Student do we have?</a></li>
+                                        <li><a href="@Url.Action("LevelsCount", "Level", new { id = UrlParameter.Optional })">How many Levels do we have?</a></li>
+                                        <li><a href="@Url.Action("CoursesCount", "Course", new { id = UrlParameter.Optional })">How many Courses do we have?</a></li>
+
                                     </ul>
                                 </li>
                                 <li>
@@ -267,7 +267,7 @@
                         @Html.HiddenFor(model => model.CourseId)
 
                         <div class="form-group">
-                            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+                            @Html.LabelFor(model => model.Name, "Course name: ", htmlAttributes: new { @class = "control-label col-md-2" })
                             <div class="col-md-6">
                                 @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
                                 @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
@@ -275,7 +275,7 @@
                         </div>
 
                         <div class="form-group">
-                            @Html.LabelFor(model => model.Description, htmlAttributes: new { @class = "control-label col-md-2" })
+                            @Html.LabelFor(model => model.Description, "Course description: ", htmlAttributes: new { @class = "control-label col-md-2" })
                             <div class="col-md-6">
                                 @Html.TextAreaFor(model => model.Description, new { htmlAttributes = new { @class = "form-control" } })
                                 @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
@@ -300,5 +300,5 @@
                 }
 
                 <div>
-                    @Html.ActionLink("Back to List", "Index")
+                    @Html.ActionLink("Back to the Courses List", "Index")
                 </div>

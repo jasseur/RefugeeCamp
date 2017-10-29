@@ -12,6 +12,7 @@ namespace RefugeeCamp.Domaine.Entity
         public String Notes { get; set; }
 
         //fk
+        [Required]
         public int? LevelId { get; set; }
         [ForeignKey("LevelId")]
         public virtual Level level { get; set; }

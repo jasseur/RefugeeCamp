@@ -1,9 +1,6 @@
 ﻿@model RefugeeCamp.Web.Models.EducationModels.StudentModel
 
 
-RefugeeCamp.Web.Models.EducationModels.StudentModel
-
-
 <body class="nav-md">
     <div class="container body">
         <div class="main_container">
@@ -55,7 +52,7 @@ RefugeeCamp.Web.Models.EducationModels.StudentModel
                                         <li><a href="@Url.Action("Index", "Teacher", new { id = UrlParameter.Optional })"> Show Teachers List</a></li>
                                         <li><a href="@Url.Action("Index", "Student", new { id = UrlParameter.Optional })">Show Students List</a></li>
                                         <li><a href="@Url.Action("Index", "Level", new { id = UrlParameter.Optional })">Show Levels List</a></li>
-                                        <li><a href="@Url.Action("Index", "Course", new { id = UrlParameter.Optional })">Show Cources List</a></li>
+                                        <li><a href="@Url.Action("Index", "Course", new { id = UrlParameter.Optional })">Show Courses List</a></li>
 
                                     </ul>
                                 </li>
@@ -69,11 +66,11 @@ RefugeeCamp.Web.Models.EducationModels.StudentModel
                                 <li>
                                     <a><i class="fa fa-bar-chart-o"></i> Data Presentation <span class="fa fa-chevron-down"></span></a>
                                     <ul class="nav child_menu">
-                                        <li><a href="chartjs.html">Chart JS</a></li>
-                                        <li><a href="chartjs2.html">Chart JS2</a></li>
-                                        <li><a href="morisjs.html">Moris JS</a></li>
-                                        <li><a href="echarts.html">ECharts</a></li>
-                                        <li><a href="other_charts.html">Other Charts</a></li>
+                                        <li><a href="@Url.Action("TeachersCount", "Teacher", new { id = UrlParameter.Optional })">How many Teacher do we have?</a></li>
+                                        <li><a href="@Url.Action("StudentsCount", "Student", new { id = UrlParameter.Optional })">How many Student do we have?</a></li>
+                                        <li><a href="@Url.Action("LevelsCount", "Level", new { id = UrlParameter.Optional })">How many Levels do we have?</a></li>
+                                        <li><a href="@Url.Action("CoursesCount", "Course", new { id = UrlParameter.Optional })">How many Courses do we have?</a></li>
+
                                     </ul>
                                 </li>
                                 <li>
@@ -262,70 +259,70 @@ RefugeeCamp.Web.Models.EducationModels.StudentModel
                     <hr />
                     <dl class="dl-horizontal">
                         @*<dt>
-                            @Html.DisplayNameFor(model => model.FirstName)
-                        </dt>
+                                    @Html.DisplayNameFor(model => model.FirstName)
+                                </dt>
 
-                        <dd>
-                            @Html.DisplayFor(model => model.FirstName)
-                        </dd>
+                                <dd>
+                                    @Html.DisplayFor(model => model.FirstName)
+                                </dd>
 
-                        <dt>
-                            @Html.DisplayNameFor(model => model.LastName)
-                        </dt>
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.LastName)
+                                </dt>
 
-                        <dd>
-                            @Html.DisplayFor(model => model.LastName)
-                        </dd>
+                                <dd>
+                                    @Html.DisplayFor(model => model.LastName)
+                                </dd>
 
-                        <dt>
-                            @Html.DisplayNameFor(model => model.MaritalStatus)
-                        </dt>
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.MaritalStatus)
+                                </dt>
 
-                        <dd>
-                            @Html.DisplayFor(model => model.MaritalStatus)
-                        </dd>
+                                <dd>
+                                    @Html.DisplayFor(model => model.MaritalStatus)
+                                </dd>
 
-                        <dt>
-                            @Html.DisplayNameFor(model => model.BirthDate)
-                        </dt>
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.BirthDate)
+                                </dt>
 
-                        <dd>
-                            @Html.DisplayFor(model => model.BirthDate)
-                        </dd>
+                                <dd>
+                                    @Html.DisplayFor(model => model.BirthDate)
+                                </dd>
 
-                        <dt>
-                            @Html.DisplayNameFor(model => model.RegistrationDate)
-                        </dt>
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.RegistrationDate)
+                                </dt>
 
-                        <dd>
-                            @Html.DisplayFor(model => model.RegistrationDate)
-                        </dd>
+                                <dd>
+                                    @Html.DisplayFor(model => model.RegistrationDate)
+                                </dd>
 
-                        <dt>
-                            @Html.DisplayNameFor(model => model.Notes)
-                        </dt>
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.Notes)
+                                </dt>
 
-                        <dd>
-                            @Html.DisplayFor(model => model.Notes)
-                        </dd>
+                                <dd>
+                                    @Html.DisplayFor(model => model.Notes)
+                                </dd>
 
-                        <dt>
-                            @Html.DisplayNameFor(model => model.LevelId)
-                        </dt>
+                                <dt>
+                                    @Html.DisplayNameFor(model => model.LevelId)
+                                </dt>
 
-                        <dd>
-                            @Html.DisplayFor(model => model.LevelId)
-                        </dd>
+                                <dd>
+                                    @Html.DisplayFor(model => model.LevelId)
+                                </dd>
 
-                    </dl>*@
+                            </dl>*@
 
-                    @using (Html.BeginForm())
-                    {
-                        @Html.AntiForgeryToken()
+                        @using (Html.BeginForm())
+                        {
+                            @Html.AntiForgeryToken()
 
-                        <div class="form-actions no-color">
-                            <input type="submit" value="Delete" class="btn btn-default" /> |
-                            @Html.ActionLink("Back to List", "Index")
-                        </div>
-                    }
+                            <div class="form-actions no-color">
+                                <input type="submit" value="Delete" class="btn btn-default" /> |
+                                @Html.ActionLink("Back to List", "Index")
+                            </div>
+                        }
                 </div>

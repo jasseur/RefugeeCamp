@@ -109,5 +109,14 @@ namespace RefugeeCamp.Web.Controllers.EducationControllers
                 return View();
             }
         }
+
+
+       
+        public ActionResult LevelsCount()
+        {
+            TestModel tm = new TestModel();
+           tm.n = ls.GetCountlevels();
+            return   View(tm);
+        }
     }
 }

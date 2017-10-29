@@ -180,12 +180,18 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Helpers\ExtensionMethods.cs" />
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\ClassroomModel.cs" />
     <Compile Include="Models\EducationModels\CourseModel.cs" />
     <Compile Include="Models\EducationModels\EmailFormModel.cs" />
     <Compile Include="Models\EducationModels\LevelModel.cs" />
     <Compile Include="Models\EducationModels\StudentModel.cs" />
     <Compile Include="Models\EducationModels\TeacherModel.cs" />
+    <Compile Include="Models\EducationModels\testCourseModel.cs" />
+    <Compile Include="Models\EducationModels\TestModel.cs" />
+    <Compile Include="Models\EducationModels\testStudentModel.cs" />
+    <Compile Include="Models\EducationModels\testTeacherModel.cs" />
     <Compile Include="Models\HealthcareModels\PerscriptionModel.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
@@ -282,15 +288,7 @@
     <Content Include="Views\Level\Create.cshtml" />
     <Content Include="Views\Level\Delete.cshtml" />
     <Content Include="Views\Level\Index.cshtml" />
-    <Content Include="Views\Teacher\Create.cshtml" />
-    <Content Include="Views\Teacher\Delete.cshtml" />
-    <Content Include="Views\Teacher\Details.cshtml" />
-    <Content Include="Views\Teacher\Edit.cshtml" />
-    <Content Include="Views\Teacher\Index.cshtml" />
     <Content Include="Views\Home\Sent.cshtml" />
-    <Content Include="Views\Teacher\Lookfor.cshtml" />
-    <Content Include="Views\Teacher\Search.cshtml" />
-    <Content Include="Views\Course\Create.cshtml" />
     <Content Include="Views\Course\Edit.cshtml" />
     <Content Include="Views\Course\Delete.cshtml" />
     <Content Include="Views\Level\Edit.cshtml" />
@@ -299,7 +297,17 @@
     <Content Include="Views\Student\Delete.cshtml" />
     <Content Include="Views\Student\Index.cshtml" />
     <Content Include="Views\Upload\UploadFile.cshtml" />
+    <Content Include="Views\Teacher\Create.cshtml" />
+    <Content Include="Views\Teacher\Delete.cshtml" />
+    <Content Include="Views\Teacher\Details.cshtml" />
+    <Content Include="Views\Teacher\Edit.cshtml" />
+    <Content Include="Views\Teacher\Index.cshtml" />
+    <Content Include="Views\Level\LevelsCount.cshtml" />
+    <Content Include="Views\Course\Create.cshtml" />
     <Content Include="Views\Course\Index.cshtml" />
+    <Content Include="Views\Teacher\TeachersCount.cshtml" />
+    <Content Include="Views\Student\StudentsCount.cshtml" />
+    <Content Include="Views\Course\CoursesCount.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -348,7 +356,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>4117</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:4117/</IISUrl>
+          <IISUrl>http://localhost:4007/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

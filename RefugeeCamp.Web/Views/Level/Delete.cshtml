@@ -37,7 +37,7 @@
                                 <li>
                                     <a><i class="fa fa-edit"></i> Adding Forms <span class="fa fa-chevron-down"></span></a>
                                     <ul class="nav child_menu">
-                                        <li><a href="@Url.Action("Create", "Teacher", new { id = UrlParameter.Optional })">Add a teacher</a></li>
+                                        <li><a href="@Url.Action("Create", "Teacher", new { id = UrlParameter.Optional })">Add a Teacher</a></li>
                                         <li><a href="@Url.Action("Create", "Student", new { id = UrlParameter.Optional })">Add a Student</a></li>
                                         <li><a href="@Url.Action("Create", "Level", new { id = UrlParameter.Optional })">Add a Level</a></li>
                                         <li><a href="@Url.Action("Create", "Course", new { id = UrlParameter.Optional })">Add a Course</a></li>
@@ -51,7 +51,7 @@
                                         <li><a href="@Url.Action("Index", "Teacher", new { id = UrlParameter.Optional })"> Show Teachers List</a></li>
                                         <li><a href="@Url.Action("Index", "Student", new { id = UrlParameter.Optional })">Show Students List</a></li>
                                         <li><a href="@Url.Action("Index", "Level", new { id = UrlParameter.Optional })">Show Levels List</a></li>
-                                        <li><a href="@Url.Action("Index", "Course", new { id = UrlParameter.Optional })">Show Cources List</a></li>
+                                        <li><a href="@Url.Action("Index", "Course", new { id = UrlParameter.Optional })">Show Courses List</a></li>
 
                                     </ul>
                                 </li>
@@ -65,11 +65,11 @@
                                 <li>
                                     <a><i class="fa fa-bar-chart-o"></i> Data Presentation <span class="fa fa-chevron-down"></span></a>
                                     <ul class="nav child_menu">
-                                        <li><a href="chartjs.html">Chart JS</a></li>
-                                        <li><a href="chartjs2.html">Chart JS2</a></li>
-                                        <li><a href="morisjs.html">Moris JS</a></li>
-                                        <li><a href="echarts.html">ECharts</a></li>
-                                        <li><a href="other_charts.html">Other Charts</a></li>
+                                        <li><a href="@Url.Action("TeachersCount", "Teacher", new { id = UrlParameter.Optional })">How many Teacher do we have?</a></li>
+                                        <li><a href="@Url.Action("StudentsCount", "Student", new { id = UrlParameter.Optional })">How many Student do we have?</a></li>
+                                        <li><a href="@Url.Action("LevelsCount", "Level", new { id = UrlParameter.Optional })">How many Levels do we have?</a></li>
+                                        <li><a href="@Url.Action("CoursesCount", "Course", new { id = UrlParameter.Optional })">How many Courses do we have?</a></li>
+
                                     </ul>
                                 </li>
                                 <li>
@@ -256,26 +256,26 @@
 
                 <h3>Are you sure you want to delete this?</h3>
                 <div>
-                    <h4>LevelModel</h4>
+
                     <hr />
                     @*<dl class="dl-horizontal">
-                        <dt>
-                            @Html.DisplayNameFor(model => model.LevelName)
-                        </dt>
+                            <dt>
+                                @Html.DisplayNameFor(model => model.LevelName)
+                            </dt>
 
-                        <dd>
-                            @Html.DisplayFor(model => model.LevelName)
-                        </dd>
+                            <dd>
+                                @Html.DisplayFor(model => model.LevelName)
+                            </dd>
 
-                        <dt>
-                            @Html.DisplayNameFor(model => model.Description)
-                        </dt>
+                            <dt>
+                                @Html.DisplayNameFor(model => model.Description)
+                            </dt>
 
-                        <dd>
-                            @Html.DisplayFor(model => model.Description)
-                        </dd>
+                            <dd>
+                                @Html.DisplayFor(model => model.Description)
+                            </dd>
 
-                    </dl>*@
+                        </dl>*@
 
                     @using (Html.BeginForm())
                     {
@@ -283,7 +283,7 @@
 
                         <div class="form-actions no-color">
                             <input type="submit" value="Delete" class="btn btn-default" /> |
-                            @Html.ActionLink("Back to List", "Index")
+                            @Html.ActionLink("Back to Levels List", "Index")
                         </div>
                     }
                 </div>
